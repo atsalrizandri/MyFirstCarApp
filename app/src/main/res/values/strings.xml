@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstCarApp</string>
+    <string name="cars_name">Nama Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About Me</string>
+    <string name="about_name">Muhammad Atsal Rizandri</string>
+    <string name="about_email">atsalrizandrii@gmail.com</string>
+    <string name="name_car">Mobil Honda</string>
+    <string name="detail_car">Detail Car</string>
+    <string name="title_spec">Transmisi \nBBM \nKapasitas Mesin</string>
+    <string name="detail_spec">Detail Spec</string>
+    <string name="detail_description">Detail Description</string>
+</resources>
